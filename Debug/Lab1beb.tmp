@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\Debug\Lab1beb.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab1beb.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab1beb.map</FILE>
+  <FILE>Lab1beb.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <inicio><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>31</LINE></inicio>
+  <MENU><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>55</LINE></MENU>
+  <DELAYX1><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>58</LINE></DELAYX1>
+  <DELAY1><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>60</LINE></DELAY1>
+  <incremento><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>70</LINE></incremento>
+  <SALTO1><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>105</LINE></SALTO1>
+  <SALTO2><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>107</LINE></SALTO2>
+  <SALTO3><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>109</LINE></SALTO3>
+  <SALTO4><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>111</LINE></SALTO4>
+  <SALTO5><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>113</LINE></SALTO5>
+  <SALTO6><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>115</LINE></SALTO6>
+  <SALTO7><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>117</LINE></SALTO7>
+  <SALTO8><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>119</LINE></SALTO8>
+  <SALTO9><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>121</LINE></SALTO9>
+  <SALTO10><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>123</LINE></SALTO10>
+  <SALTO11><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>125</LINE></SALTO11>
+  <SALTO12><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>127</LINE></SALTO12>
+  <SALTO13><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>129</LINE></SALTO13>
+  <SALTO14><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>131</LINE></SALTO14>
+  <SALTO15><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>133</LINE></SALTO15>
+  <CAS1><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>152</LINE></CAS1>
+  <CAS2><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>161</LINE></CAS2>
+  <CAS3><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>167</LINE></CAS3>
+  <CAS4><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>173</LINE></CAS4>
+  <CAS5><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>179</LINE></CAS5>
+  <CAS6><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>185</LINE></CAS6>
+  <CAS7><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>191</LINE></CAS7>
+  <CAS8><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>198</LINE></CAS8>
+  <CAS9><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>207</LINE></CAS9>
+  <CAS10><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>220</LINE></CAS10>
+  <CAS11><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>233</LINE></CAS11>
+  <CAS12><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>246</LINE></CAS12>
+  <CAS13><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>259</LINE></CAS13>
+  <CAS14><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>272</LINE></CAS14>
+  <CAS15><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>285</LINE></CAS15>
+  <CAS0><FILE>C:\Users\mayra\Documents\Atmel Studio\7.0\Lab1beb\Lab1beb\main.asm</FILE><LINE>139</LINE></CAS0>
+ </LABELS>
+</ASSEMBLER_INFO>
